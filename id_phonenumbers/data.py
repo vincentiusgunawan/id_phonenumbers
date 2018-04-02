@@ -1,3 +1,7 @@
+CDMA_PREFIXES = {}
+
+MOBILE_CDMA_PREFIXES = {}
+
 GSM_PREFIXES = {
     # Indosat
     "814": "Matrix",
