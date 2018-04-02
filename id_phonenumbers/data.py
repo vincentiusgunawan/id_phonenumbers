@@ -1,27 +1,3 @@
-CDMA_PREFIXES = {
-
-    "9": "Esia",  # (Area-Code) - 9xxx-xxxx
-    "80": "Esia",  # 021 - 80xx-xxxx
-    "83": "Esia",  # 021-83xx-xxxx
-
-    "61": "Indosat",  # (Area-code)-61xx-xxxx
-    "62": "Indosat",  # (Area-code)-62xx-xxxx
-    "63": "Indosat",  # (Area-code)-63xx-xxxx
-    "90": "Indosat",  # (Area-code)-90xx-xxxx
-    "30": "Indosat",  # 021-30xx-xxxx
-    "60": "Indosat",  # 021-60xx-xxxx
-
-}
-
-MOBILE_CDMA_PREFIXES = {
-    "881": "Smart",
-    "882": "Smart",
-
-    "887": "Smartfren",
-    "888": "Smartfren",
-    "889": "Smartfren",
-}
-
 GSM_PREFIXES = {
     # Indosat
     "814": "Matrix",
@@ -71,6 +47,13 @@ GSM_PREFIXES = {
     "896": "3",
     "895": "3",
     "894": "3",
+    
+    #Smartfren
+    "881": "Smartfren",
+    "882": "Smartfren",
+    "887": "Smartfren",
+    "888": "Smartfren",
+    "889": "Smartfren",
 
 }
 
